@@ -1,0 +1,30 @@
+Do a write up for the followings:? 
+1. Difference between HTTP1.1 vs HTTP2 
+                            HTTP1	                                HTTP2
+        It is take more loading time	                         It is faster to compare http1
+        It is complexity 	                                 Significantly  reduce the complexity 
+        It is allowed to single request 	                 It is allowed to multiple request
+        Type=HEADER	                                         Type=DATA
+
+
+
+2. http version history 
+
+   *HTTP begins in 1969,
+   *It is a program called Advanced Research Projects Agency Network (ARPANET). 
+   *ARPANET used packet switching and allowed multiple computers to communicate with each other on a single network. 
+   *The original intention behind ARPANET was to design a time-sharing system that allowed research institutes to share their computer resources for effective     utilization of processing power.
+
+3. List 5 difference between Browser JS(console) vs Nodejs 
+	Javascript	                                          NodeJS
+   Javascript can only be run in the browsers.	        NodeJS code can be run outside the browser.
+   It is basically used on the client-side.	        It is mostly used on the server-side.
+   Javascript is used in frontend development.	        Nodejs is used in server-side development.
+   Javascript can run in any browser engine as          Nodejs can only run in V8 engine of google chrome.
+   like JS core in safari and Spidermonkey in Firefox.	
+
+4. what happens when you type a URL in the address bar in the browser?
+     It checks the browser cache. 
+     The browser maintains a repository of DNS records for a fixed duration for websites you have previously visited. 
+     It is the first place to run a DNS query.  
+     The browser checks the OS cache.
